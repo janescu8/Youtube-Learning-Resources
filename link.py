@@ -1,13 +1,15 @@
 # link.py
 
 data = {
-    "Lucas | A1 level - beginner | Part 1 of 2": [
+    "Lucas | A1 level - beginner | Part 1 of 4": [
         {"title": "A1#1 Introduction", "url": "https://youtu.be/c2SUQVjklVA?feature=shared"},
         {"title": "A1#2 En Suisse", "url": "https://youtu.be/3ulVBcPpydk?feature=shared"},
         {"title": "A1#3 J'aime bien...", "url": "https://youtu.be/in8ORZKfSPk?feature=shared"},
         {"title": "A1#4 Vous aimez ce sportif ?", "url": "https://youtu.be/OezZ0xue_yI?feature=shared"},
         {"title": "A1#5 Une routine", "url": "https://youtu.be/5MxUsevYKzA?feature=shared"},
         {"title": "A1#6 Révision de 10 verbes", "url": "https://youtu.be/QPgEzFucZHo?feature=shared"},
+    ],
+    "Lucas | A1 level - beginner | Part 2 of 4": [
         {"title": "A1#7 Vous préférez lire ou écouter?", "url": "https://youtu.be/21nGI69WyCA?feature=shared"},
         {"title": "A1#9 Conversation informelle", "url": "https://youtu.be/Yc3KB75SqIg?feature=shared"},
         {"title": "A1#10 5 adjectifs + 5 contraires", "url": "https://youtu.be/2bzCXZqGgwU?feature=shared"},
