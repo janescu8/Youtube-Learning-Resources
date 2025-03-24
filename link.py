@@ -8,4 +8,10 @@ data = {
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
     ],
+    "Procreate": [
+        {"title": "Procreate Beginners Series: Part One | The Fundamentals", "url": "https://youtu.be/Vn8bj0YpZg4?feature=shared"},
+        {"title": "Procreate Beginners Series: Part Two | Painting Tools", "url": "https://youtu.be/e5F7em-hGwc?feature=shared"},
+        {"title": "Procreate Beginners Series: Part Three | Editing Tools", "url": "https://youtu.be/EqQjjxcNd1o?feature=shared"},
+        {"title": "Procreate Beginners Series: Part Four | Actions & Animation", "url": "https://youtu.be/Np97KSzgrCs?feature=shared"},
+    ],
 }
