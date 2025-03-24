@@ -1,20 +1,20 @@
 # link.py
 
 data = {
-    "Streamlit | 0325": [
+    "Streamlit | Part 1 of 1 | 0325": [
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared"},
         {"title": "How To Add A Contact Form To Your Streamlit App", "url": "https://youtu.be/FOULV9Xij_8?feature=shared"},
         {"title": "Build A Digital Resume Using Python & Streamlit", "url": "https://youtu.be/BXAeMICmUSQ?feature=shared"},
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
     ],
-    "Procreate | 0400": [
+    "Procreate | Part 1 of 3 | 0400": [
         {"title": "Procreate Beginners Series: Part One | The Fundamentals", "url": "https://youtu.be/Vn8bj0YpZg4?feature=shared"},
         {"title": "Procreate Beginners Series: Part Two | Painting Tools", "url": "https://youtu.be/e5F7em-hGwc?feature=shared"},
         {"title": "Procreate Beginners Series: Part Three | Editing Tools", "url": "https://youtu.be/EqQjjxcNd1o?feature=shared"},
         {"title": "Procreate Beginners Series: Part Four | Actions & Animation", "url": "https://youtu.be/Np97KSzgrCs?feature=shared"},
     ],
-    "Procreate | 0400": [
+    "Procreate | Part 2 of 3 | 0400": [
         {"title": "A REAL Procreate Beginner Tutorial 🍉 | Draw as a Professional Artist", "url": "https://youtu.be/X9PTqz4GSTg?feature=shared"},
         {"title": "PROCREATE Drawing for Beginners - EASY Step by Step Tutorial", "url": "https://youtu.be/AX84Qc0dwo4?feature=shared"},
         {"title": "How To Draw Watercolor Succulents In Procreate • Easy iPad Art Tutorial", "url": "https://youtu.be/EHYdVUZZuvg?feature=shared"},
@@ -23,7 +23,7 @@ data = {
         {"title": "How To Draw A Watercolor Cactus In Procreate • Easy iPad Art Tutorial", "url": "https://youtu.be/PtiypxK6qcU?feature=shared"},
         {"title": "Easy Watercolor Effect on iPad • No Art Skill Required • Step-By-Step Procreate Tutorial", "url": "https://youtu.be/6c2xiYOlJnw?feature=shared"},
     ],
-    "Procreate | 0400": [
+    "Procreate | Part 3 of 3 | 0400": [
         {"title": "Watercolor Monstera Leaf | Easy Procreate Tutorial | Step by Step (with voice!)", "url": "https://youtu.be/Zqob9gGOtys?feature=shared"},
         {"title": "How To Draw A Watercolor Orange Slice In Procreate | Beginner Friendly | Step-by-Step Tutorial", "url": "https://youtu.be/UJTYznYPPJQ?feature=shared"},
         {"title": "How To Draw Watercolor Fall Leaves • Procreate Tutorial • You Can Paint This iPad", "url": "https://youtu.be/ImVxjKS7I-g?feature=shared"},
