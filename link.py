@@ -9,13 +9,13 @@ data = {
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
     ],
-    "AI | Part 1 of 3 | 0400": [
+    "AI | Part 1 of 2 | 0400": [
         {"title": "Google’s AI Course for Beginners (in 10 minutes)!", "url": "https://youtu.be/Yq0QkCxoTHM?feature=shared"},
         {"title": "99% of Beginners Don't Know the Basics of AI", "url": "https://youtu.be/nVyD6THcvDQ?feature=shared"},
         {"title": "How I'd Learn AI in 2025 (if I could start over)", "url": "https://youtu.be/h2FDq3agImI?feature=shared"},
         {"title": "How I'd Learn AI (If I Had to Start Over)", "url": "https://youtu.be/TR7AGmey1C8?feature=shared"},
     ],
-    "AI | Part 2 of 3 | 0400": [
+    "AI | Part 2 of 2 | 0400": [
         {"title": "Basics of ChatGPT & Prompt Engineering for Beginners", "url": "https://youtube.com/playlist?list=PLlHtucAD9KT3mCqOBIrJwO2rsfia_wj1U&feature=shared"},
     ],
     "Procreate | Part 1 of 3 | 0400": [
