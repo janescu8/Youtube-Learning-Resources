@@ -4,11 +4,22 @@ data = {
     "Streamlit | Part 1 of 1 | 0325": [
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared"},
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Data Elements", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=1167"},
-        
         {"title": "How To Add A Contact Form To Your Streamlit App", "url": "https://youtu.be/FOULV9Xij_8?feature=shared"},
         {"title": "Build A Digital Resume Using Python & Streamlit", "url": "https://youtu.be/BXAeMICmUSQ?feature=shared"},
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
+    ],
+    "AI | Part 1 of 3 | 0400": [
+        {"title": "Google’s AI Course for Beginners (in 10 minutes)!", "url": "https://youtu.be/Yq0QkCxoTHM?feature=shared"},
+        {"title": "99% of Beginners Don't Know the Basics of AI", "url": "https://youtu.be/nVyD6THcvDQ?feature=shared"},
+        {"title": "How I'd Learn AI in 2025 (if I could start over)", "url": "https://youtu.be/h2FDq3agImI?feature=shared"},
+        {"title": "How I'd Learn AI (If I Had to Start Over)", "url": "https://youtu.be/TR7AGmey1C8?feature=shared"},
+    ],
+    "AI | Part 2 of 3 | 0400": [
+        {"title": "Basics of ChatGPT & Prompt Engineering for Beginners", "url": "https://youtube.com/playlist?list=PLlHtucAD9KT3mCqOBIrJwO2rsfia_wj1U&feature=shared"},
+    ],
+    "AI | Part 3 of 3 | 0400": [
+        {"title": "Artificial Intelligence for Everyone", "url": "https://youtube.com/playlist?list=PLGs0VKk2DiYyXlbJVaE8y1qr24YldYNDm&feature=shared"},
     ],
     "Procreate | Part 1 of 3 | 0400": [
         {"title": "Procreate Beginners Series: Part One | The Fundamentals", "url": "https://youtu.be/Vn8bj0YpZg4?feature=shared"},
