@@ -47,4 +47,10 @@ data = {
         {"title": "A1#11 Chiens ou chats?", "url": "https://youtu.be/IB7eYfhP1BU?feature=shared"},
         {"title": "A1#12 Trois personnes célèbres" , "url": "https://youtu.be/vjtM9uTNF9U?feature=shared"},
     ],
+    "FLE d'OC | niveau A1 | Part 1 of 1 | 0400": [
+        {"title": "Podcast by FLE d'OC - niveau A1", "url": "https://youtube.com/playlist?list=PL9kS_xTc-TqefHxGvgE9YlxSTNRwPByhR&feature=shared"},
+    ],
+    "FLE d'OC | niveau A2 | Part 1 of 1 | 0400": [
+        {"title": "Podcast by FLE d'OC - niveau A2", "url": "https://youtube.com/playlist?list=PL9kS_xTc-TqcKVBd4LT15wZ1W5AmWeeQ_&feature=shared},
+    ],
 }
