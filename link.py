@@ -18,9 +18,6 @@ data = {
     "AI | Part 2 of 3 | 0400": [
         {"title": "Basics of ChatGPT & Prompt Engineering for Beginners", "url": "https://youtube.com/playlist?list=PLlHtucAD9KT3mCqOBIrJwO2rsfia_wj1U&feature=shared"},
     ],
-    "AI | Part 3 of 3 | 0400": [
-        {"title": "Artificial Intelligence for Everyone", "url": "https://youtube.com/playlist?list=PLGs0VKk2DiYyXlbJVaE8y1qr24YldYNDm&feature=shared"},
-    ],
     "Procreate | Part 1 of 3 | 0400": [
         {"title": "Procreate Beginners Series: Part One | The Fundamentals", "url": "https://youtu.be/Vn8bj0YpZg4?feature=shared"},
         {"title": "Procreate Beginners Series: Part Two | Painting Tools", "url": "https://youtu.be/e5F7em-hGwc?feature=shared"},
