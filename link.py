@@ -9,6 +9,12 @@ data = {
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
     ],
+    "Git & GitHub | Part 1 of 2 | 0400": [
+        {"title": "Git Tutorial for Beginners: Learn Git in 1 Hour", "url": "https://youtu.be/8JJ101D3knE?feature=shared"},
+    ],
+    "Git & GitHub | Part 2 of 2 | 0400": [
+        {"title": "Git & GitHub Tutorial for Beginners", "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&feature=shared"},
+    ],
     "AI | Part 1 of 2 | 0400": [
         {"title": "Google’s AI Course for Beginners (in 10 minutes)!", "url": "https://youtu.be/Yq0QkCxoTHM?feature=shared"},
         {"title": "99% of Beginners Don't Know the Basics of AI", "url": "https://youtu.be/nVyD6THcvDQ?feature=shared"},
