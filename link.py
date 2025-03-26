@@ -26,6 +26,11 @@ data = {
         {"title": "Introduction to GitHub Copilot", "url": "https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5&feature=shared"},
         {"title": "GitHub Copilot Series", "url": "https://youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt&feature=shared"},
     ],
+    "Cursor | Part 1 of 1 | 0400": [
+        {"title": "Cursor Tutorial for Beginners (AI Code Editor)", "url": "https://youtu.be/ocMOZpuAMw4?feature=shared"},
+        {"title": "Cursor AI Tutorial for Beginners [2025 Edition]", "url": "https://youtu.be/3289vhOUdKA?feature=shared"},
+        {"title": "Let's learn how to use Cursor AI", "url": "https://youtube.com/playlist?list=PLJrzt4ameiaMNvgMrW69BF_j_3RhoIwSF&feature=shared"},
+    ],
     "AI | Part 1 of 2 | 0400": [
         {"title": "Google’s AI Course for Beginners (in 10 minutes)!", "url": "https://youtu.be/Yq0QkCxoTHM?feature=shared"},
         {"title": "99% of Beginners Don't Know the Basics of AI", "url": "https://youtu.be/nVyD6THcvDQ?feature=shared"},
