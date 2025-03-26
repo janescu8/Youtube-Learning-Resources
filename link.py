@@ -12,6 +12,14 @@ data = {
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
     ],
+    "Plotly | Part 1 of 2 | 0400": [
+        {"title": "Plotly Overview for Beginners!", "url": "https://youtu.be/fya8OnVbZqE?feature=shared"},
+        {"title": "Plotly Tutorial 2023", "url": "https://youtu.be/GGL6U0k8WYA?feature=shared"},
+    ],
+    "Plotly | Part 2 of 2 | 0400": [
+        {"title": "Plotly Tutorial for Beginners", "url": "https://youtube.com/playlist?list=PLBSCvBlTOLa8rf2kGkP_Bx5xXqT-er4Yq&feature=shared"},
+        {"title": "LEARN PLOTLY", "url": "https://youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94&feature=shared"},
+    ],
     "Git & GitHub | Part 1 of 2 | 0400": [
         {"title": "Git Tutorial for Beginners: Learn Git in 1 Hour", "url": "https://youtu.be/8JJ101D3knE?feature=shared"},
     ],
