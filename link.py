@@ -1,7 +1,7 @@
 # link.py
 
 data = {
-    "Streamlit | Part 1 of 2 | 0325": [
+    "Streamlit | Coding Is Fun | Part 1 of 2 | 0325": [
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
         {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
         {"title": "Build A Digital Resume Using Python & Streamlit", "url": "https://youtu.be/BXAeMICmUSQ?feature=shared"},
