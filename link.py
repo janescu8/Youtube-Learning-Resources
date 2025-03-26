@@ -14,6 +14,17 @@ data = {
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Session State", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2520"},
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Callbacks", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2920"},
     ],
+    "Regular Expressions | Part 1 of 2 | 0400": [
+        {"title": "[5 Minute Tutorial] Regular Expressions (Regex) in Python", "url": "https://youtu.be/UQQsYXa1EHs?feature=shared"},
+        {"title": "Regular Expressions in Python", "url": "https://youtu.be/wnuBwl2ekmo?feature=shared"},
+        {"title": "Regular Expression Tutorial Python | Python Regex Tutorial", "url": "https://youtu.be/sHw5hLYFaIw?feature=shared"},
+        {"title": "Regular Expressions in Python (Python for Beginners) | Part 28", "url": "https://youtu.be/e0xL9o5VibU?feature=shared"},
+    ],
+    "Regular Expressions | Part 2 of 2 | 0400": [
+        {"title": "Python Regular Expression", "url": "https://youtube.com/playlist?list=PLUaB-1hjhk8EwZgCwBP36HH-SLJk4RaWp&feature=shared"},
+        {"title": "Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)", "url": "https://youtu.be/K8L6KVGG-7o?feature=shared"},
+        {"title": "Regular Expressions in Python - FULL COURSE (1 HOUR) - Programming Tutorial", "url": "https://youtu.be/AEE9ecgLgdQ?feature=shared"},
+    ],
     "Plotly | Part 1 of 2 | 0400": [
         {"title": "Plotly Overview for Beginners!", "url": "https://youtu.be/fya8OnVbZqE?feature=shared"},
         {"title": "Plotly Tutorial 2023", "url": "https://youtu.be/GGL6U0k8WYA?feature=shared"},
