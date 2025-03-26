@@ -25,6 +25,16 @@ data = {
         {"title": "Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)", "url": "https://youtu.be/K8L6KVGG-7o?feature=shared"},
         {"title": "Regular Expressions in Python - FULL COURSE (1 HOUR) - Programming Tutorial", "url": "https://youtu.be/AEE9ecgLgdQ?feature=shared"},
     ],
+    "Web Scraping | Part 1 of 2 | 0400": [
+        {"title": "Beginners Guide To Web Scraping with Python - All You Need To Know", "url": "https://youtu.be/QhD015WUMxE?feature=shared"},
+        {"title": "Scraping Data from a Real Website | Web Scraping in Python", "url": "https://youtu.be/8dTpNajxaH0?feature=shared"},
+        {"title": "Web Scraping with Python - Beautiful Soup Crash Course", "url": "https://youtu.be/XVv6mJpFOb0?feature=shared"},
+    ],
+    "Web Scraping | Part 2 of 2 | 0400": [
+        {"title": "Python Web Scraping for Beginners", "url": "https://youtube.com/playlist?list=PLOeFnOV9YBa4RoXWWBN9G-gesre2Rx0e5&feature=shared"},
+        {"title": "WEB SCRAPING Complete Course", "url": "https://youtube.com/playlist?list=PLc20sA5NNOvrsn3a78ewy2VTCXVV47NB4&feature=shared"},
+        {"title": "Modern Web Scraping with Python", "url": "https://youtube.com/playlist?list=PLRzwgpycm-Fio7EyivRKOBN4D3tfQ_rpu&feature=shared"},
+    ],
     "Plotly | Part 1 of 2 | 0400": [
         {"title": "Plotly Overview for Beginners!", "url": "https://youtu.be/fya8OnVbZqE?feature=shared"},
         {"title": "Plotly Tutorial 2023", "url": "https://youtu.be/GGL6U0k8WYA?feature=shared"},
