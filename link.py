@@ -16,15 +16,15 @@ data = {
         {"title": "Git & GitHub Tutorial for Beginners", "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&feature=shared"},
     ],
     "GitHub Copilot | Part 1 of 2 | 0400": [
+        {"title": "GitHub Copilot in 7 Minutes 👨‍💻🤖🚀", "url": "https://youtu.be/hPVatUSvZq0?feature=shared"},
         {"title": "Getting started with GitHub Copilot | Tutorial", "url": "https://youtu.be/n0NlxUyA7FI?feature=shared"},
         {"title": "Get to know GitHub Copilot in VS Code and be productive IMMEDIATELY", "url": "https://youtu.be/jXp5D5ZnxGM?feature=shared"},
         {"title": "Get Started with GitHub Copilot in VS Code (2025)", "url": "https://youtu.be/vdBxfFVXnc0?feature=shared"},
+        {"title": "Coding with an AI pair programmer: Getting started with GitHub Copilot", "url": "https://youtu.be/dhfTaSGYQ4o?feature=shared"},
     ],
     "GitHub Copilot | Part 2 of 2 | 0400": [
-        {"title": "GitHub Copilot in 7 Minutes 👨‍💻🤖🚀", "url": "https://youtu.be/hPVatUSvZq0?feature=shared"},
         {"title": "Introduction to GitHub Copilot", "url": "https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5&feature=shared"},
         {"title": "GitHub Copilot Series", "url": "https://youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt&feature=shared"},
-        {"title": "Coding with an AI pair programmer: Getting started with GitHub Copilot", "url": "https://youtu.be/dhfTaSGYQ4o?feature=shared"},
     ],
     "AI | Part 1 of 2 | 0400": [
         {"title": "Google’s AI Course for Beginners (in 10 minutes)!", "url": "https://youtu.be/Yq0QkCxoTHM?feature=shared"},
