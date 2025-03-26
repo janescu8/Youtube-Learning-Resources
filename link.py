@@ -65,6 +65,15 @@ data = {
         {"title": "Cursor AI Tutorial for Beginners [2025 Edition]", "url": "https://youtu.be/3289vhOUdKA?feature=shared"},
         {"title": "Let's learn how to use Cursor AI", "url": "https://youtube.com/playlist?list=PLJrzt4ameiaMNvgMrW69BF_j_3RhoIwSF&feature=shared"},
     ],
+    "Math for Machine Learning | Part 1 of 3 | 0400": [
+        {"title": "政大【數學軟體應用】(深度學習) 課程", "url": "https://youtube.com/playlist?list=PLpltJwWB6egLxrYImtGdqy_FV3sJe5dmy&feature=shared"},
+    ],
+    "Math for Machine Learning | Part 2 of 3 | 0400": [
+        {"title": "Math for Machine Learning", "url": "https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&feature=shared"},
+    ],
+    "Math for Machine Learning | Part 3 of 3 | 0400": [
+        {"title": "Math for Deep Learning — Andreas Geiger", "url": "https://youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm&feature=shared"},
+    ],
     "AI | Part 1 of 2 | 0400": [
         {"title": "Google’s AI Course for Beginners (in 10 minutes)!", "url": "https://youtu.be/Yq0QkCxoTHM?feature=shared"},
         {"title": "99% of Beginners Don't Know the Basics of AI", "url": "https://youtu.be/nVyD6THcvDQ?feature=shared"},
