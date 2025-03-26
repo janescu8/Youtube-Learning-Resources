@@ -48,6 +48,17 @@ data = {
         {"title": "The Boy step-by-step Procreate", "url": "https://youtu.be/BgK5iM_wHA4?feature=shared"},
         {"title": "Learn How To Draw A Kawaii Monster 🤍 (Easy & Fun)", "url": "https://youtu.be/4vahtpSVdQ0?feature=shared"},
     ],
+    "INSTAGRAM | Part 1 of 2 | 0400": [
+        {"title": "The Complete INSTAGRAM FOR BUSINESS GUIDE (Reels, Stories, Verification, Instagram Shopping & More!)", "url": "https://youtu.be/T8P5Kl5Ee8s?feature=shared"},
+        {"title": "The NEW Way To Beat Instagram’s Algorithm in 2025", "url": "https://youtu.be/aZH3c9NNqGs?feature=shared"},
+        {"title": "Best Instagram Marketing Strategy For Small Business 2025 (PROVEN & PROFITABLE)", "url": "https://youtu.be/iiDYFRQpHE0?feature=shared"},
+        {"title": "Instagram Marketing for Beginners (2025) - Full Guide", "url": "https://youtu.be/h_uis-gVx0k?feature=shared"},
+        {"title": "STRATEGY to 10X your Instagram GROWTH in 2025 | Instagram Advanced App !", "url": "https://youtu.be/w6Rmc5sIwWk?feature=shared"},
+    ],
+    "REELS | Part 1 of 1 | 0400": [
+        {"title": "INSTAGRAM REELS TUTORIAL 2025 | How to Create 20 Reels in 1 hour", "url": "https://youtu.be/1FfxkrCoTOw?feature=shared"},
+        {"title": "2025 Reels Editing Tutorial for Beginners (How to Edit Reels in the Instagram App)", "url": "https://youtu.be/7rgFWbwvKiE?feature=shared"},
+    ],
     "Lucas | A1 level - beginner | Part 1 of 4 | 0400": [
         {"title": "A1#1 Introduction", "url": "https://youtu.be/c2SUQVjklVA?feature=shared"},
         {"title": "A1#2 En Suisse", "url": "https://youtu.be/3ulVBcPpydk?feature=shared"},
