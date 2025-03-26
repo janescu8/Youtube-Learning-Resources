@@ -20,7 +20,7 @@ data = {
         {"title": "Get to know GitHub Copilot in VS Code and be productive IMMEDIATELY", "url": "https://youtu.be/jXp5D5ZnxGM?feature=shared"},
         {"title": "Get Started with GitHub Copilot in VS Code (2025)", "url": "https://youtu.be/vdBxfFVXnc0?feature=shared"},
     ],
-    "GitHub Copilot | Part 1 of 2 | 0400": [
+    "GitHub Copilot | Part 2 of 2 | 0400": [
         {"title": "GitHub Copilot in 7 Minutes 👨‍💻🤖🚀", "url": "https://youtu.be/hPVatUSvZq0?feature=shared"},
         {"title": "Introduction to GitHub Copilot", "url": "https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5&feature=shared"},
         {"title": "GitHub Copilot Series", "url": "https://youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt&feature=shared"},
