@@ -5,6 +5,7 @@ data = {
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared"},
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Data Elements", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=1167"},
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Advanced Form Example", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2356"},
+        {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Session State", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2520"},
         {"title": "How To Add A Contact Form To Your Streamlit App", "url": "https://youtu.be/FOULV9Xij_8?feature=shared"},
         {"title": "Build A Digital Resume Using Python & Streamlit", "url": "https://youtu.be/BXAeMICmUSQ?feature=shared"},
         {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
