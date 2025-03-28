@@ -109,6 +109,9 @@ data = {
         {"title": "The Boy step-by-step Procreate", "url": "https://youtu.be/BgK5iM_wHA4?feature=shared"},
         {"title": "Learn How To Draw A Kawaii Monster 🤍 (Easy & Fun)", "url": "https://youtu.be/4vahtpSVdQ0?feature=shared"},
     ],
+    "Suno | Part 1 of 1 | 0400": [
+        {"title": "Suno AI: Everything You Need to Know (Ultimate Guide)", "url": "https://youtu.be/HEsLVSN7aPo?feature=shared"},
+    ],
     "INSTAGRAM | Part 1 of 2 | 0400": [
         {"title": "The Complete INSTAGRAM FOR BUSINESS GUIDE (Reels, Stories, Verification, Instagram Shopping & More!)", "url": "https://youtu.be/T8P5Kl5Ee8s?feature=shared"},
         {"title": "The NEW Way To Beat Instagram’s Algorithm in 2025", "url": "https://youtu.be/aZH3c9NNqGs?feature=shared"},
