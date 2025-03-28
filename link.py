@@ -13,6 +13,9 @@ data = {
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Session State", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2520"},
         {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Callbacks", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2920"},
     ],
+    "Data Science Agent | Part 1 of 1 | 0400": [
+        {"title": "Google Launches Free Data Science Agent in Colab Powered By Gemini", "url": "https://youtu.be/1Lq2xzqj_S0?feature=shared"},
+    ],
     "Regular Expressions | Part 1 of 2 | 0400": [
         {"title": "[5 Minute Tutorial] Regular Expressions (Regex) in Python", "url": "https://youtu.be/UQQsYXa1EHs?feature=shared"},
         {"title": "Regular Expressions in Python", "url": "https://youtu.be/wnuBwl2ekmo?feature=shared"},
