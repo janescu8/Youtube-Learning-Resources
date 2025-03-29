@@ -126,6 +126,10 @@ data = {
         {"title": "INSTAGRAM REELS TUTORIAL 2025 | How to Create 20 Reels in 1 hour", "url": "https://youtu.be/1FfxkrCoTOw?feature=shared"},
         {"title": "2025 Reels Editing Tutorial for Beginners (How to Edit Reels in the Instagram App)", "url": "https://youtu.be/7rgFWbwvKiE?feature=shared"},
     ],
+    "TED-Ed | Part 1 of 1 | 0400": [
+        {"title": "The best invention since sliced bread? - Rachel Yang", "url": "https://youtu.be/f-T0PEWRaVc?feature=shared"},
+        {"title": "The best invention since sliced bread? - Rachel Yang", "url": "https://youtu.be/f-T0PEWRaVc?feature=shared&t=75"},
+    ],
     "Lucas | A1 level - beginner | Part 1 of 4 | 0400": [
         {"title": "A1#1 Introduction", "url": "https://youtu.be/c2SUQVjklVA?feature=shared"},
         {"title": "A1#2 En Suisse", "url": "https://youtu.be/3ulVBcPpydk?feature=shared"},
