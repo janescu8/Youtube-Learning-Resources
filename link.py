@@ -1,71 +1,14 @@
 # link.py
 
 data = {
-    "Streamlit | Coding Is Fun | Part 1 of 2 | 0325": [
-        {"title": "Streamlit & Google Sheets: The Easiest Database", "url": "https://youtu.be/HwxrXnYVIlU?feature=shared"},
-        {"title": "Create a Google Sheets Data Entry Form with Python & Streamlit | Quick & Easy Tutorial", "url": "https://youtu.be/_G5f7og_Dpo?feature=shared"},
-        {"title": "Build A Digital Resume Using Python & Streamlit", "url": "https://youtu.be/BXAeMICmUSQ?feature=shared"},
-    ],
-    "Streamlit | Part 2 of 2 | 0400": [
-        {"title": "Streamlit Mini Course - Make Websites With ONLY Python", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared"},
-        {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Data Elements", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=1167"},
-        {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Advanced Form Example", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2356"},
-        {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Session State", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2520"},
-        {"title": "Streamlit Mini Course - Make Websites With ONLY Python | Callbacks", "url": "https://youtu.be/o8p7uQCGD0U?feature=shared&t=2920"},
-    ],
     "Data Science Agent | Part 1 of 1 | 0400": [
         {"title": "Google Launches Free Data Science Agent in Colab Powered By Gemini", "url": "https://youtu.be/1Lq2xzqj_S0?feature=shared"},
-    ],
-    "Regular Expressions | Part 1 of 2 | 0400": [
-        {"title": "[5 Minute Tutorial] Regular Expressions (Regex) in Python", "url": "https://youtu.be/UQQsYXa1EHs?feature=shared"},
-        {"title": "Regular Expressions in Python", "url": "https://youtu.be/wnuBwl2ekmo?feature=shared"},
-        {"title": "Regular Expression Tutorial Python | Python Regex Tutorial", "url": "https://youtu.be/sHw5hLYFaIw?feature=shared"},
-        {"title": "Regular Expressions in Python (Python for Beginners) | Part 28", "url": "https://youtu.be/e0xL9o5VibU?feature=shared"},
-    ],
-    "Regular Expressions | Part 2 of 2 | 0400": [
-        {"title": "Python Regular Expression", "url": "https://youtube.com/playlist?list=PLUaB-1hjhk8EwZgCwBP36HH-SLJk4RaWp&feature=shared"},
-        {"title": "Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex)", "url": "https://youtu.be/K8L6KVGG-7o?feature=shared"},
-        {"title": "Regular Expressions in Python - FULL COURSE (1 HOUR) - Programming Tutorial", "url": "https://youtu.be/AEE9ecgLgdQ?feature=shared"},
-    ],
-    "Web Scraping | Part 1 of 2 | 0400": [
-        {"title": "Beginners Guide To Web Scraping with Python - All You Need To Know", "url": "https://youtu.be/QhD015WUMxE?feature=shared"},
-        {"title": "Scraping Data from a Real Website | Web Scraping in Python", "url": "https://youtu.be/8dTpNajxaH0?feature=shared"},
-        {"title": "Web Scraping with Python - Beautiful Soup Crash Course", "url": "https://youtu.be/XVv6mJpFOb0?feature=shared"},
-    ],
-    "Web Scraping | Part 2 of 2 | 0400": [
-        {"title": "Python Web Scraping for Beginners", "url": "https://youtube.com/playlist?list=PLOeFnOV9YBa4RoXWWBN9G-gesre2Rx0e5&feature=shared"},
-        {"title": "WEB SCRAPING Complete Course", "url": "https://youtube.com/playlist?list=PLc20sA5NNOvrsn3a78ewy2VTCXVV47NB4&feature=shared"},
-        {"title": "Modern Web Scraping with Python", "url": "https://youtube.com/playlist?list=PLRzwgpycm-Fio7EyivRKOBN4D3tfQ_rpu&feature=shared"},
-    ],
-    "Plotly | Part 1 of 2 | 0400": [
-        {"title": "Plotly Overview for Beginners!", "url": "https://youtu.be/fya8OnVbZqE?feature=shared"},
-        {"title": "Plotly Tutorial 2023", "url": "https://youtu.be/GGL6U0k8WYA?feature=shared"},
-    ],
-    "Plotly | Part 2 of 2 | 0400": [
-        {"title": "Plotly Tutorial for Beginners", "url": "https://youtube.com/playlist?list=PLBSCvBlTOLa8rf2kGkP_Bx5xXqT-er4Yq&feature=shared"},
-        {"title": "LEARN PLOTLY", "url": "https://youtube.com/playlist?list=PLE50-dh6JzC4onX-qkv9H3HtPbBVA8M94&feature=shared"},
     ],
     "Git & GitHub | Part 1 of 2 | 0400": [
         {"title": "Git Tutorial for Beginners: Learn Git in 1 Hour", "url": "https://youtu.be/8JJ101D3knE?feature=shared"},
     ],
     "Git & GitHub | Part 2 of 2 | 0400": [
         {"title": "Git & GitHub Tutorial for Beginners", "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&feature=shared"},
-    ],
-    "GitHub Copilot | Part 1 of 2 | 0400": [
-        {"title": "GitHub Copilot in 7 Minutes 👨‍💻🤖🚀", "url": "https://youtu.be/hPVatUSvZq0?feature=shared"},
-        {"title": "Getting started with GitHub Copilot | Tutorial", "url": "https://youtu.be/n0NlxUyA7FI?feature=shared"},
-        {"title": "Get to know GitHub Copilot in VS Code and be productive IMMEDIATELY", "url": "https://youtu.be/jXp5D5ZnxGM?feature=shared"},
-        {"title": "Get Started with GitHub Copilot in VS Code (2025)", "url": "https://youtu.be/vdBxfFVXnc0?feature=shared"},
-        {"title": "Coding with an AI pair programmer: Getting started with GitHub Copilot", "url": "https://youtu.be/dhfTaSGYQ4o?feature=shared"},
-    ],
-    "GitHub Copilot | Part 2 of 2 | 0400": [
-        {"title": "Introduction to GitHub Copilot", "url": "https://youtube.com/playlist?list=PLlrxD0HtieHgr23PS05FIncnih4dH9Na5&feature=shared"},
-        {"title": "GitHub Copilot Series", "url": "https://youtube.com/playlist?list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt&feature=shared"},
-    ],
-    "Cursor | Part 1 of 1 | 0400": [
-        {"title": "Cursor Tutorial for Beginners (AI Code Editor)", "url": "https://youtu.be/ocMOZpuAMw4?feature=shared"},
-        {"title": "Cursor AI Tutorial for Beginners [2025 Edition]", "url": "https://youtu.be/3289vhOUdKA?feature=shared"},
-        {"title": "Let's learn how to use Cursor AI", "url": "https://youtube.com/playlist?list=PLJrzt4ameiaMNvgMrW69BF_j_3RhoIwSF&feature=shared"},
     ],
     "Math for Machine Learning | Part 1 of 3 | 0400": [
         {"title": "政大【數學軟體應用】(深度學習) 課程", "url": "https://youtube.com/playlist?list=PLpltJwWB6egLxrYImtGdqy_FV3sJe5dmy&feature=shared"},
@@ -115,20 +58,9 @@ data = {
     "Suno | Part 1 of 1 | 0400": [
         {"title": "Suno AI: Everything You Need to Know (Ultimate Guide)", "url": "https://youtu.be/HEsLVSN7aPo?feature=shared"},
     ],
-    "INSTAGRAM | Part 1 of 2 | 0400": [
-        {"title": "The Complete INSTAGRAM FOR BUSINESS GUIDE (Reels, Stories, Verification, Instagram Shopping & More!)", "url": "https://youtu.be/T8P5Kl5Ee8s?feature=shared"},
-        {"title": "The NEW Way To Beat Instagram’s Algorithm in 2025", "url": "https://youtu.be/aZH3c9NNqGs?feature=shared"},
-        {"title": "Best Instagram Marketing Strategy For Small Business 2025 (PROVEN & PROFITABLE)", "url": "https://youtu.be/iiDYFRQpHE0?feature=shared"},
-        {"title": "Instagram Marketing for Beginners (2025) - Full Guide", "url": "https://youtu.be/h_uis-gVx0k?feature=shared"},
-        {"title": "STRATEGY to 10X your Instagram GROWTH in 2025 | Instagram Advanced App !", "url": "https://youtu.be/w6Rmc5sIwWk?feature=shared"},
-    ],
     "REELS | Part 1 of 1 | 0400": [
         {"title": "INSTAGRAM REELS TUTORIAL 2025 | How to Create 20 Reels in 1 hour", "url": "https://youtu.be/1FfxkrCoTOw?feature=shared"},
         {"title": "2025 Reels Editing Tutorial for Beginners (How to Edit Reels in the Instagram App)", "url": "https://youtu.be/7rgFWbwvKiE?feature=shared"},
-    ],
-    "TED-Ed | Part 1 of 1 | 0400": [
-        {"title": "The best invention since sliced bread? - Rachel Yang | the automatic toaster", "url": "https://youtu.be/f-T0PEWRaVc?feature=shared"},
-        {"title": "The best invention since sliced bread? - Rachel Yang", "url": "https://youtu.be/f-T0PEWRaVc?feature=shared&t=75"},
     ],
     "Lucas | A1 level - beginner | Part 1 of 4 | 0400": [
         {"title": "A1#1 Introduction", "url": "https://youtu.be/c2SUQVjklVA?feature=shared"},
@@ -144,11 +76,5 @@ data = {
         {"title": "A1#10 5 adjectifs + 5 contraires", "url": "https://youtu.be/2bzCXZqGgwU?feature=shared"},
         {"title": "A1#11 Chiens ou chats?", "url": "https://youtu.be/IB7eYfhP1BU?feature=shared"},
         {"title": "A1#12 Trois personnes célèbres" , "url": "https://youtu.be/vjtM9uTNF9U?feature=shared"},
-    ],
-    "FLE d'OC | niveau A1 | Part 1 of 1 | 0400": [
-        {"title": "Podcast by FLE d'OC - niveau A1", "url": "https://youtube.com/playlist?list=PL9kS_xTc-TqefHxGvgE9YlxSTNRwPByhR&feature=shared"},
-    ],
-    "FLE d'OC | niveau A2 | Part 1 of 1 | 0400": [
-        {"title": "Podcast by FLE d'OC - niveau A2", "url": "https://youtube.com/playlist?list=PL9kS_xTc-TqcKVBd4LT15wZ1W5AmWeeQ_&feature=shared"},
     ],
 }
