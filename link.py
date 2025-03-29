@@ -2,7 +2,7 @@
 
 data = {
     "Data Science Agent | Part 1 of 1 | 0400": [
-        {"title": "Google Launches Free Data Science Agent in Colab Powered By Gemini", "url": "https://youtu.be/1Lq2xzqj_S0?feature=shared"},
+        {"title": "Python Data Analysis with Gemini AI & Google Colab", "url": "https://youtu.be/j4bhmlkpLfc?feature=shared"},
     ],
     "Git & GitHub | Part 1 of 2 | 0400": [
         {"title": "Git Tutorial for Beginners: Learn Git in 1 Hour", "url": "https://youtu.be/8JJ101D3knE?feature=shared"},
