@@ -1,15 +1,25 @@
 # main.py
 
 import streamlit as st
-from link import data
+from link_Jun_2025 import data
+from link_Jul_2025 import data
+
+# Month options and corresponding data modules
+month_options = {
+    "June 2025": "link_Jun_2025",
+    "July 2025": "link_Jul_2025",
+}
+
+# Select a month
+selected_month = st.selectbox("選擇月份", list(month_options.keys()))
+module_name = month_options[selected_month]
 
 st.title("🎓 YouTube 學習資源")
 
-# 選擇主題
+# Select topic within the chosen month
 topic = st.selectbox("選擇你想學的主題", list(data.keys()))
 
-# 顯示影片清單
+# Show video list
 st.subheader(f"【{topic}】相關影片")
-
 for item in data[topic]:
     st.markdown(f"📺 [{item['title']}]({item['url']})")
