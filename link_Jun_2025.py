@@ -1,6 +1,6 @@
 # link.py
 
-data_Jun_2025 = {
+data = {
     "7 days of English Vocab": [
         {"title": "Day 1 – ", "url": ""},
         {"title": "Day 2 – ", "url": ""},
