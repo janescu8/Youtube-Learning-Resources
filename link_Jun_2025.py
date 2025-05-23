@@ -20,7 +20,7 @@ data = {
         {"title": "Day 7 – ", "url": ""},
     ],
     "7 days of Piano Production": [
-        {"title": "Day 1 – ", "url": ""},
+        {"title": "Day 1 – GOLDEN HOUR", "url": "https://youtu.be/CWlAgyg25OA?feature=shared"},
         {"title": "Day 2 – ", "url": ""},
         {"title": "Day 3 – ", "url": ""},
         {"title": "Day 4 – ", "url": ""},
