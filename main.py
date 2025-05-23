@@ -2,12 +2,10 @@
 
 import streamlit as st
 from link_Jun_2025 import data
-from link_Jul_2025 import data
 
 # Month options and corresponding data modules
 month_options = {
     "June 2025": "link_Jun_2025",
-    "July 2025": "link_Jul_2025",
 }
 
 # Select a month
