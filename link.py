@@ -1,19 +1,49 @@
 # link.py
 
-data = {
+data_Jun_2025 = {
     "7 days of English Vocab": [
-        {"title": "", "url": ""},
+        {"title": "Day 1 – ", "url": ""},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
     ],
     "7 days of Art Production": [
-        {"title": "", "url": ""},
+        {"title": "Day 1 – ", "url": ""},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
     ],
     "7 days of Piano Production": [
-        {"title": "", "url": ""},
+        {"title": "Day 1 – ", "url": ""},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
     ],
     "7 days of Dance Production": [
-        {"title": "", "url": ""},
+        {"title": "Day 1 – ", "url": ""},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
     ],
     "7 days of Yoga Production": [
-        {"title": "", "url": ""},
+        {"title": "Day 1 – ", "url": ""},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
     ],
 }
