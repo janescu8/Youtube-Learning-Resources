@@ -5,7 +5,7 @@ from link_2025_may_23 import data
 
 # Month options and corresponding data modules
 month_options = {
-    "June 2025": "link_2025_may_23",
+    "2025_may_23": "link_2025_may_23",
 }
 
 # Select a month
