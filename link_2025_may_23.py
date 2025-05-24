@@ -19,6 +19,12 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
+    "4 days of Procreate Production": [
+        {"title": "Day 1 – Part One | The Fundamentals", "url": "https://youtu.be/Vn8bj0YpZg4?feature=shared"},
+        {"title": "Day 2 – Part Two | Painting Tools", "url": "https://youtu.be/e5F7em-hGwc?feature=shared"},
+        {"title": "Day 3 – Part Three | Editing Tools", "url": "https://youtu.be/EqQjjxcNd1o?feature=shared"},
+        {"title": "Day 4 – Part Four | Actions & Animation", "url": "https://youtu.be/Np97KSzgrCs?feature=shared"},
+    ],
     "7 days of Piano Production": [
         {"title": "Day 1 – GOLDEN HOUR", "url": "https://youtu.be/CWlAgyg25OA?feature=shared"},
         {"title": "Day 2 – GOLDEN HOUR", "url": "https://youtu.be/ksZRx9k18Yw?feature=shared"},
@@ -45,5 +51,10 @@ data = {
         {"title": "Day 5 – ", "url": ""},
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
+    ],
+    "3 days of Podcast Production": [
+        {"title": "Day 1 – How to Start a Podcast", "url": "https://youtu.be/PIJpOcFf5h4?feature=shared"},
+        {"title": "Day 2 – Top Podcasting Tips & Tools for Recording, Interviews & Exporting", "url": "https://youtu.be/HUwhPlsxpqI?feature=shared"},
+        {"title": "Day 3 – How to Record and Edit a Podcast in Audacity", "url": "https://youtu.be/xl-WDjWrTtk?feature=shared"},
     ],
 }
