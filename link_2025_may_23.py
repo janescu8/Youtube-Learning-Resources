@@ -21,7 +21,7 @@ data = {
     ],
     "7 days of Piano Production": [
         {"title": "Day 1 – GOLDEN HOUR", "url": "https://youtu.be/CWlAgyg25OA?feature=shared"},
-        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 2 – GOLDEN HOUR", "url": "https://youtu.be/ksZRx9k18Yw?feature=shared"},
         {"title": "Day 3 – ", "url": ""},
         {"title": "Day 4 – ", "url": ""},
         {"title": "Day 5 – ", "url": ""},
