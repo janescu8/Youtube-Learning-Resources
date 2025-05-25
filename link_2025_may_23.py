@@ -36,7 +36,7 @@ data = {
     ],
     "7 days of Dance Production": [
         {"title": "Day 1 – HIP HOP Dance Workout", "url": "https://youtu.be/KHzdmT-irdM?feature=shared"},
-        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 2 – This HIP HOP Dance Tutorial in 2024", "url": "https://youtu.be/8ln8T3yQ9bU?feature=shared"},
         {"title": "Day 3 – ", "url": ""},
         {"title": "Day 4 – ", "url": ""},
         {"title": "Day 5 – ", "url": ""},
