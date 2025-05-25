@@ -1,15 +1,6 @@
 # link.py
 
 data = {
-    "7 days of English Vocab Vanessa": [
-        {"title": "Day 1 – Education in the US", "url": "https://youtu.be/m8lLwZU9COg?feature=shared"},
-        {"title": "Day 2 – ", "url": ""},
-        {"title": "Day 3 – ", "url": ""},
-        {"title": "Day 4 – ", "url": ""},
-        {"title": "Day 5 – ", "url": ""},
-        {"title": "Day 6 – ", "url": ""},
-        {"title": "Day 7 – ", "url": ""},
-    ],
     "7 days of Art Production Scottie": [
         {"title": "Day 1 – Sketching PEOPLE SITTING", "url": "https://youtu.be/vKc62VakGxo?feature=shared"},
         {"title": "Day 2 – ", "url": ""},
@@ -52,9 +43,36 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
+    "7 days of English Vocab Vanessa": [
+        {"title": "Day 1 – Education in the US", "url": "https://youtu.be/m8lLwZU9COg?feature=shared"},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
+    ],
+    "15 days of French Vocab Alice Ayel": [
+        {"title": "Day 1 – Une crêpe délicieuse", "url": "https://youtu.be/fDcOfwBVQsE?feature=shared"},
+        {"title": "Day 2 – Roland, un opéra de Jean-Baptiste Lully", "url": "https://youtu.be/43jIt3dlkdw?feature=shared"},
+        {"title": "Day 3 – La toute petite bonne femme, un conte du bassin", "url": "https://youtu.be/bB6wT2Q6-R8?feature=shared"},
+        {"title": "Day 4 – La cigale et le fourmi, une fable de Jean de La Fontaine", "url": "https://youtu.be/5XmwCBOmJhY?feature=shared"},
+        {"title": "Day 5 – Le loup déguisé en agneau, une fable d'Esope", "url": "https://youtu.be/cJuKJ2SNhGA?feature=shared"},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
+        {"title": "Day 8 – ", "url": ""},
+        {"title": "Day 9 – ", "url": ""},
+        {"title": "Day 10 – ", "url": ""},
+        {"title": "Day 11 – ", "url": ""},
+        {"title": "Day 12 – ", "url": ""},
+        {"title": "Day 13 – ", "url": ""},
+        {"title": "Day 14 – ", "url": ""},
+        {"title": "Day 15 – ", "url": ""},
+    ],
     "3 days of Podcast Production Pat Flynn": [
         {"title": "Day 1 – How to Start a Podcast", "url": "https://youtu.be/PIJpOcFf5h4?feature=shared"},
         {"title": "Day 2 – Top Podcasting Tips & Tools for Recording, Interviews & Exporting", "url": "https://youtu.be/HUwhPlsxpqI?feature=shared"},
         {"title": "Day 3 – How to Record and Edit a Podcast in Audacity", "url": "https://youtu.be/xl-WDjWrTtk?feature=shared"},
     ],
+    
 }
