@@ -1,7 +1,7 @@
 # link.py
 
 data = {
-    "7 days of English Vocab": [
+    "7 days of English Vocab Vanessa": [
         {"title": "Day 1 – Education in the US", "url": "https://youtu.be/m8lLwZU9COg?feature=shared"},
         {"title": "Day 2 – ", "url": ""},
         {"title": "Day 3 – ", "url": ""},
@@ -10,7 +10,7 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
-    "7 days of Art Production": [
+    "7 days of Art Production Scottie": [
         {"title": "Day 1 – Sketching PEOPLE SITTING", "url": "https://youtu.be/vKc62VakGxo?feature=shared"},
         {"title": "Day 2 – ", "url": ""},
         {"title": "Day 3 – ", "url": ""},
@@ -19,13 +19,13 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
-    "4 days of Procreate Production": [
+    "4 days of Procreate Production Christiane": [
         {"title": "Day 1 – Part One | The Fundamentals", "url": "https://youtu.be/Vn8bj0YpZg4?feature=shared"},
         {"title": "Day 2 – Part Two | Painting Tools", "url": "https://youtu.be/e5F7em-hGwc?feature=shared"},
         {"title": "Day 3 – Part Three | Editing Tools", "url": "https://youtu.be/EqQjjxcNd1o?feature=shared"},
         {"title": "Day 4 – Part Four | Actions & Animation", "url": "https://youtu.be/Np97KSzgrCs?feature=shared"},
     ],
-    "7 days of Piano Production": [
+    "7 days of Piano Production Thomas": [
         {"title": "Day 1 – GOLDEN HOUR", "url": "https://youtu.be/CWlAgyg25OA?feature=shared"},
         {"title": "Day 2 – GOLDEN HOUR", "url": "https://youtu.be/ksZRx9k18Yw?feature=shared"},
         {"title": "Day 3 – COMPTINE D'UN AUTRE ÉTÉ", "url": "https://youtu.be/2FZGQ76RbK4?feature=shared"},
@@ -34,7 +34,7 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
-    "7 days of Dance Production": [
+    "7 days of Dance Production Lara": [
         {"title": "Day 1 – HIP HOP Dance Workout", "url": "https://youtu.be/KHzdmT-irdM?feature=shared"},
         {"title": "Day 2 – This HIP HOP Dance Tutorial in 2024", "url": "https://youtu.be/8ln8T3yQ9bU?feature=shared"},
         {"title": "Day 3 – ", "url": ""},
@@ -43,7 +43,7 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
-    "7 days of Barre Production": [
+    "7 days of Barre Production Lara": [
         {"title": "Day 1 – LOWER BODY BARRE WORKOUT", "url": "https://youtu.be/Srrdk9rv3JQ?feature=shared"},
         {"title": "Day 2 – ", "url": ""},
         {"title": "Day 3 – ", "url": ""},
@@ -52,7 +52,7 @@ data = {
         {"title": "Day 6 – ", "url": ""},
         {"title": "Day 7 – ", "url": ""},
     ],
-    "3 days of Podcast Production": [
+    "3 days of Podcast Production Pat Flynn": [
         {"title": "Day 1 – How to Start a Podcast", "url": "https://youtu.be/PIJpOcFf5h4?feature=shared"},
         {"title": "Day 2 – Top Podcasting Tips & Tools for Recording, Interviews & Exporting", "url": "https://youtu.be/HUwhPlsxpqI?feature=shared"},
         {"title": "Day 3 – How to Record and Edit a Podcast in Audacity", "url": "https://youtu.be/xl-WDjWrTtk?feature=shared"},
