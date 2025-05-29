@@ -69,6 +69,15 @@ data = {
         {"title": "Day 14 – ", "url": ""},
         {"title": "Day 15 – ", "url": ""},
     ],
+    "3 days of English YouTube Movies": [
+        {"title": "Day 1 – Winter Spring Summer or Fall", "url": "https://youtu.be/9VTcGNRwIQk?feature=shared"},
+        {"title": "Day 2 – ", "url": ""},
+        {"title": "Day 3 – ", "url": ""},
+        {"title": "Day 4 – ", "url": ""},
+        {"title": "Day 5 – ", "url": ""},
+        {"title": "Day 6 – ", "url": ""},
+        {"title": "Day 7 – ", "url": ""},
+    ],
     "3 days of Podcast Production Pat Flynn": [
         {"title": "Day 1 – How to Start a Podcast", "url": "https://youtu.be/PIJpOcFf5h4?feature=shared"},
         {"title": "Day 2 – Top Podcasting Tips & Tools for Recording, Interviews & Exporting", "url": "https://youtu.be/HUwhPlsxpqI?feature=shared"},
