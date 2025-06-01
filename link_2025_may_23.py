@@ -21,9 +21,8 @@ data = {
         {"title": "Day 1 – HIP HOP Dance Workout", "url": "https://youtu.be/KHzdmT-irdM?feature=shared"},
         {"title": "Day 2 – This HIP HOP Dance Tutorial in 2024", "url": "https://youtu.be/8ln8T3yQ9bU?feature=shared"},
     ],
-    "2 days of Dance Production Tara's body": [
-        {"title": "Day 1 – STEP WORKOUT I 10 MINUTES I WEIGHT LOSS I PART 1", "url": "https://youtu.be/7a1U1hCYUQc?feature=shared"},
-        {"title": "Day 2 – STEP WORKOUT I 10 MINUTES I WEIGHT LOSS I PART 2", "url": "https://youtu.be/fsT5IdVpOw8?feature=shared"},
+    "1 days of Dance Production Tara's body": [
+        {"title": "Day 1 – DANCE TUTORIAL & CHOREGRAPHY | FOR BEGINNERS", "url": "https://youtu.be/gbfvCYz9i9Y?feature=shared"},
     ],
     "3 days of Barre Production Lara": [
         {"title": "Day 1 – LOWER BODY BARRE WORKOUT", "url": "https://youtu.be/Srrdk9rv3JQ?feature=shared"},
