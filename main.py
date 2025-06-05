@@ -2,6 +2,7 @@
 
 import streamlit as st
 from link_2025_may_23 import data
+from link_2025_jun_06 import data
 
 # Month options and corresponding data modules
 month_options = {
