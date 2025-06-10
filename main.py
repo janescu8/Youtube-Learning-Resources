@@ -6,7 +6,6 @@ import importlib
 # Month options and corresponding data modules
 month_options = {
     "2025_may_23": "link_2025_may_23",
-    "2025_jun_06": "link_2025_jun_06",
 }
 
 # Select a month
